@@ -18,7 +18,7 @@ exports.readUser = async (req, res) => {
 }
 
 exports.createUser = async (req, res) => {
-  let { roleId = "45c8513d-6c24-4 870-b937-eafc5b20a20d",
+  let { roleId = "af84b38a-5cb4-40b3-bab9-59da16533436",
     username,
     password,
     name,
